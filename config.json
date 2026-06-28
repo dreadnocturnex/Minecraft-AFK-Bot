@@ -1,6 +1,6 @@
 {
-  "serverHost": "applevalemc.aternos.me",
-  "serverPort": 28324,
+  "serverHost": "TheAppleValeSMP.aternos.me:39078",
+  "serverPort": 39078,
   "botUsername": "AppleBot",
   "version": "1.21.11",
   "botChunk": 1
