@@ -2,5 +2,6 @@
   "serverHost": "applevalemc.aternos.me",
   "serverPort": 28324,
   "botUsername": "AppleBot",
+  "version": "1.21.11",
   "botChunk": 1
 }
