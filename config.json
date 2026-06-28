@@ -1,6 +1,6 @@
 {
-  "serverHost": "example.aternos.me",
-  "serverPort": 12345,
-  "botUsername": "MyBot",
+  "serverHost": "applevalemc.aternos.me",
+  "serverPort": 28324,
+  "botUsername": "AppleBot",
   "botChunk": 1
 }
